@@ -1,4 +1,4 @@
-# Rizwan's Data Symphony: Crafting Insights with Precision 🎶📊
+# Rizwan's Data Elevation: Navigating the Peaks of Precision 🚀📈
 
 👋 Hello, I'm Mohd Rizwan, a passionate B.Tech student specializing in Data Science. Welcome to my repository, where I document my learning journey, projects, and explorations in the world of data.
 
