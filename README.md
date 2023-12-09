@@ -1,4 +1,4 @@
-# Mohd Rizwan's Data Science Journey
+# Rizwan's Data Symphony: Crafting Insights with Precision 🎶📊
 
 👋 Hello, I'm Mohd Rizwan, a passionate B.Tech student specializing in Data Science. Welcome to my repository, where I document my learning journey, projects, and explorations in the world of data.
 
