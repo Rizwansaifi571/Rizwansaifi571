@@ -1,39 +1,21 @@
-# Rizwan's Data Elevation: Navigating the Peaks of Precision 🚀📈
+<h1 align="center">Hi 👋, I'm Mohd Rizwan</h1>
+<h3 align="center">A passionate Data Scientist from India</h3>
 
-👋 Hello, I'm Mohd Rizwan, a passionate B.Tech student specializing in Data Science. Welcome to my repository, where I document my learning journey, projects, and explorations in the world of data.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rizwansaifi571&label=Profile%20views&color=0e75b6&style=flat" alt="rizwansaifi571" /> </p>
 
-## About Me
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rizwansaifi571" alt="rizwansaifi571" /></a> </p>
 
-🎓 **Education:** Currently pursuing B.Tech in Data Science, I'm eager to blend theoretical knowledge with hands-on experiences.
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-🚀 **Passion for Data:** From statistical analysis to machine learning, I'm fascinated by the transformative power of data.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-## Repository Highlights
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-### 1. **Projects:**
-Explore my hands-on projects covering data analysis, machine learning, and more.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rizwansaifi571&show_icons=true&locale=en&layout=compact" alt="rizwansaifi571" /></p>
 
-### 2. **Learning Resources:**
-Discover a curated list of resources that have been invaluable in my data science education.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rizwansaifi571&show_icons=true&locale=en" alt="rizwansaifi571" /></p>
 
-### 3. **Notebooks:**
-Dive into Jupyter notebooks where I experiment, learn, and showcase my coding adventures.
-
-### 4. **Community Interaction:**
-Connect with me on [LinkedIn]([https://www.linkedin.com/in/mohdrizwan/](https://www.linkedin.com/in/rizwansaifi2614/)](https://www.linkedin.com/in/rizwansaifi2614/) and let's share insights, collaborate, and grow together.
-
-## Let's Connect
-
-🌐 **LinkedIn:** [Connect with me]([https://www.linkedin.com/in/mohdrizwan](https://www.linkedin.com/in/rizwansaifi2614/)/](https://www.linkedin.com/in/rizwansaifi2614/) for discussions, collaborations, or just to share exciting data science stories.
-
-📧 **Email:** Feel free to reach out at [rizwansaifi2614@gmail.com](mailto:rizwansaifi2614@gmail.com).
-
-## Acknowledgments
-
-A big thanks to the vibrant data science community and educators who inspire and guide me on this thrilling journey.
-
-## License
-
-This repository is a reflection of my learning path and is open to contributions and collaborations. Feel free to explore, learn, and share your insights!
-
-Happy coding and data exploring! 🌟📊
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rizwansaifi571&" alt="rizwansaifi571" /></p>
