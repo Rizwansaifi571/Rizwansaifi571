@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **EMS - A Business Intelligence Tool.**
+- 🔭 Immersed in the exhilarating process of refining and sculpting the masterpiece that is my own self.
 
 - 🌱 I’m currently learning **🌱 Embarking on an odyssey through the ever-evolving landscape of data science.**
 
