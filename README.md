@@ -24,12 +24,12 @@ I am a passionate B.Tech student specializing in Data Science at K.R. Mangalam U
 
 Join me on my professional journey as I explore the realms of data science and machine learning. Follow my updates, insights, and occasional musings on these platforms:
 
-<p align="left">
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rizwansaifi2614)
-[![Kaggle Badge](https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/rizwansaifi2614)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rizwansaifi571)
-[![HackerRank Badge](https://img.shields.io/badge/HackerRank-blue?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/rizwansaifi2614)
-</p>
+## Connect with me
+| LinkdIn | GFG | Hacker | Instagram | G-Mail |
+|---------|---------|-------------|-------------|----------|
+|<a href="https://linkedin.com/in/https://www.linkedin.com/in/rizwansaifi2614" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rizwansaifi2614" height="50" width="55" /></a> |<a href="https://www.geeksforgeeks.org/user/rizwansaifi2614" target="blank"><img align="center" src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" alt="https://www.geeksforgeeks.org/user/rizwansaifi2614" height="55" width="55" /></a> |<a href="https://www.hackerrank.com/profile/rizwansaifi2614" target="blank"><img align="center" src="https://hrcdn.net/fcore/assets/brand/logo-new-white-green-a5cb16e0ae.svg" alt="https://www.hackerrank.com/profile/rizwansaifi2614" height="65" width="65" /></a> |<a href="https://www.instagram.com/rizwansaifi571" target="blank"><img align="center" src="http://pngimg.com/uploads/instagram/instagram_PNG9.png" alt="https://www.instagram.com/rizwansaifi571" height="55" width="55" /></a> |<a href="rizwansaifi2614@gmail.com" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/020/964/377/original/gmail-mail-icon-for-web-design-free-png.png" alt="rizwansaifi2614@gmail.com" height="55" width="55" /></a> |
+
+
 
 ---
 
