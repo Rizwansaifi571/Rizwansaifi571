@@ -104,5 +104,5 @@ Embrace the journey of learning and growth with me. Let's connect and share know
 </div>
 
 <p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+ <img width="1000" src="github-snake.svg" alt="snake"/>
 </p>
