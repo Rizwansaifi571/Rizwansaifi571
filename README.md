@@ -17,7 +17,7 @@
 ### 🌟 A Little More About Me
 - 🔭 **Immersed in:** Refining and sculpting the masterpiece that is my own self.
 - 🌱 **Currently Exploring:** An odyssey through the ever-evolving landscape of data science.
-- 💬 **Ask Me About:** Python and Machine Learning.
+- 💬 **Ask Me About:** Artificial Intelligence.
 - 📫 **How to Reach Me:** [LinkedIn](https://www.linkedin.com/in/rizwansaifi2614/)
 - ⚡ **Fun Fact:** I have a secret talent for juggling code while juggling balls—keeping both the digital and physical worlds in perfect balance!
 
@@ -94,8 +94,11 @@ Embrace the journey of learning and growth with me. Let's connect and share know
 
 <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=Rizwansaifi571&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rizwansaifi571&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
 </p>
+<p align="center">
+    <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=rizwansaifi571&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="rizwansaifi571" />
+</p>
+
  
 
 
