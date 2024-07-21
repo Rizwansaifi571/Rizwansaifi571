@@ -2,10 +2,8 @@
 ### Mohd Rizwan - Data Scientist
 
 
-<div style="display: flex; justify-content: center;">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXQzNXc2MHA3bGtnZ3ZtZjFpY2ltMnZwa2UzZW85Mmc1MmcwZjk0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5k5vZwRFZR5aZeniqb/giphy.webp" alt="Programmer GIF" style="width: 300px; margin: 10px;">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Programmer GIF" style="width: 300px; margin: 10px;">
-</div>
+<div style="text-align: center;">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Programmer GIF" style="float: right; width: 300px; margin-left: 20px;">
 
   <p>I am a passionate B.Tech student specializing in Data Science at K.R. Mangalam University, Gurugram. With a strong foundation in computer science and a knack for solving complex challenges, I am driven to leverage technology for impactful solutions. I thrive in dynamic and innovative environments, always eager to learn and excel.</p>
 </div>
