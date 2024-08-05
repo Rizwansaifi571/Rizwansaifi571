@@ -1,10 +1,8 @@
+# Mohd Rizwan - Data Scientist
 
-### Mohd Rizwan - Data Scientist
-
-
-<div style="text-align: center;">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Programmer GIF" style="float: right; width: 300px; margin-left: 20px;">
-
+<div align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Programmer GIF" width="300" style="float: right; margin-left: 20px; border-radius: 10px;">
+  <h2>Welcome to my GitHub profile!</h2>
   <p>I am a passionate B.Tech student specializing in Data Science at K.R. Mangalam University, Gurugram. With a strong foundation in computer science and a knack for solving complex challenges, I am driven to leverage technology for impactful solutions. I thrive in dynamic and innovative environments, always eager to learn and excel.</p>
 </div>
 
@@ -82,23 +80,20 @@ Embrace the journey of learning and growth with me. Let's connect and share know
 
 ---
 
-  
-<p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=Rizwansaifi571&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
-</p>
 
+
+
+
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=Rizwansaifi571&theme=highcontrast&hide_border=true&border_radius=5&card_width=800" alt="GitHub Streak Stats">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=Rizwansaifi571&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=rizwansaifi571&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Top Languages">
+</div>
 
 ---
-
-
-
-
-<p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=Rizwansaifi571&show_icons=true&theme=vision-friendly-dark">
-</p>
-<p align="center">
-    <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=rizwansaifi571&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="rizwansaifi571" />
-</p>
 
  
 
