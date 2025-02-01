@@ -56,9 +56,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="800" height="200" src="https://streak-stats.demolab.com?user=Rizwansaifi571&theme=highcontrast&hide_border=true&border_radius=10" style="border: 2px solid #e74c3c;">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=Rizwansaifi571&show_icons=true&theme=vision-friendly-dark" style="border: 2px solid #27ae60;">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=rizwansaifi571&show_icons=true&layout=compact&theme=vision-friendly-dark" style="border: 2px solid #8e44ad;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rizwansaifi571&theme=merko&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rizwansaifi571&theme=merko&show_icons=true&hide_border=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rizwansaifi571&theme=merko&show_icons=true&hide_border=true&layout=compact"/>
 </div>
 
 ---
