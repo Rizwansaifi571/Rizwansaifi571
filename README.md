@@ -1,107 +1,73 @@
 # Mohd Rizwan - Data Scientist
 
 <div align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Programmer GIF" width="300" style="float: right; margin-left: 20px; border-radius: 10px;">
-  <h2>Welcome to my GitHub profile!</h2>
-  <p>I am a passionate B.Tech student specializing in Data Science at K.R. Mangalam University, Gurugram. With a strong foundation in computer science and a knack for solving complex challenges, I am driven to leverage technology for impactful solutions. I thrive in dynamic and innovative environments, always eager to learn and excel.</p>
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Programmer GIF" width="300" style="border-radius: 10px; border: 2px solid #f39c12;">
+  
+  <h1 style="color: #3498db; font-family: Arial, sans-serif;">Welcome to my GitHub Profile!</h1>
+  <p style="font-size: 18px; font-weight: bold; color: #2ecc71;">I am a passionate B.Tech student specializing in Data Science at K.R. Mangalam University, Gurugram. With a strong foundation in computer science and a knack for solving complex challenges, I leverage technology for impactful solutions.</p>
 </div>
 
 ---
 
-
-
-
----
-
-### 🌟 A Little More About Me
-- 🔭 **Immersed in:** Refining and sculpting the masterpiece that is my own self.
-- 🌱 **Currently Exploring:** An odyssey through the ever-evolving landscape of data science.
-- 💬 **Ask Me About:** Artificial Intelligence.
-- 📫 **How to Reach Me:** [LinkedIn](https://www.linkedin.com/in/rizwansaifi2614/)
-- ⚡ **Fun Fact:** I have a secret talent for juggling code while juggling balls—keeping both the digital and physical worlds in perfect balance!
+### 🌟 About Me
+- 🔭 **Currently Working On:** AI-powered personal assistant & health report analyzer.
+- 🌱 **Exploring:** Advanced Machine Learning and Deep Learning models.
+- 💬 **Ask Me About:** Data Science, AI, and Software Development.
+- 📫 **Reach Me At:** [LinkedIn](https://www.linkedin.com/in/rizwansaifi2614/)
+- ⚡ **Fun Fact:** I can juggle both code and actual juggling balls!
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Rizwansaifi571&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-### 📫 Connect with me:
+## 🏆 GitHub Achievements
 
-Join me on my professional journey as I explore the realms of data science and machine learning. Follow my updates, insights, and occasional musings on these platforms:
-
-## Connect with me
-| LinkdIn | GFG | Hacker | Instagram | G-Mail |
-|---------|---------|-------------|-------------|----------|
-|<a href="https://linkedin.com/in/https://www.linkedin.com/in/rizwansaifi2614" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rizwansaifi2614" height="50" width="55" /></a> |<a href="https://www.geeksforgeeks.org/user/rizwansaifi2614" target="blank"><img align="center" src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" alt="https://www.geeksforgeeks.org/user/rizwansaifi2614" height="55" width="55" /></a> |<a href="https://www.hackerrank.com/profile/rizwansaifi2614" target="blank"><img align="center" src="https://hrcdn.net/fcore/assets/brand/logo-new-white-green-a5cb16e0ae.svg" alt="https://www.hackerrank.com/profile/rizwansaifi2614" height="65" width="65" /></a> |<a href="https://www.instagram.com/rizwansaifi571" target="blank"><img align="center" src="http://pngimg.com/uploads/instagram/instagram_PNG9.png" alt="https://www.instagram.com/rizwansaifi571" height="55" width="55" /></a> |<a href="rizwansaifi2614@gmail.com" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/020/964/377/original/gmail-mail-icon-for-web-design-free-png.png" alt="rizwansaifi2614@gmail.com" height="55" width="55" /></a> |
-
-
+<div align="center">
+  <img width="800" height="180" src="https://github-profile-trophy.vercel.app/?username=Rizwansaifi571&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark" style="border-radius: 10px; border: 2px solid #f39c12;">
+</div>
 
 ---
 
-Embrace the journey of learning and growth with me. Let's connect and share knowledge, achievements, and even the occasional setback. Together, we can make a significant impact in the world of data science and technology.
+## 📫 Connect with Me
 
-## Languages and Tools 
+| LinkedIn | GeeksforGeeks | HackerRank | Instagram | Gmail |
+|----------|--------------|------------|------------|-------|
+| <a href="https://www.linkedin.com/in/rizwansaifi2614" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="50" width="50"/></a> | <a href="https://www.geeksforgeeks.org/user/rizwansaifi2614" target="blank"><img src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" height="50" width="50"/></a> | <a href="https://www.hackerrank.com/profile/rizwansaifi2614" target="blank"><img src="https://hrcdn.net/fcore/assets/brand/logo-new-white-green-a5cb16e0ae.svg" height="50" width="50"/></a> | <a href="https://www.instagram.com/rizwansaifi571" target="blank"><img src="http://pngimg.com/uploads/instagram/instagram_PNG9.png" height="50" width="50"/></a> | <a href="mailto:rizwansaifi2614@gmail.com" target="blank"><img src="https://static.vecteezy.com/system/resources/previews/020/964/377/original/gmail-mail-icon-for-web-design-free-png.png" height="50" width="50"/></a> |
+
+---
+
+## 🚀 Languages & Tools
 
 ### Programming Languages:
-| HTML5 | CSS3 | JavaScript | Python | Node.js |
-|----------|----------|----------|----------|----------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="55" height="55"/> |
+| Python | Java | C++ | JavaScript | R | HTML5 | CSS3 |
+|--------|------|-----|------------|---|------|------|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50"/> |
 
-### Frameworks and Libraries:
-| Bootstrap | Express.js | OpenCV | Pandas | Seaborn |
-|----------|----------|----------|----------|----------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="55" height="55"/> | <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="55" height="55"/> | <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="55" height="55"/> |
+### Frameworks & Libraries:
+| TensorFlow | PyTorch | OpenCV | Pandas | Seaborn | Bootstrap |
+|------------|---------|--------|--------|---------|-----------|
+| <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="50"/> | <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="50"/> | <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50"/> | <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="50"/> |
 
-### Data Science and Machine Learning:
-| Scikit-learn | TensorFlow | PyTorch |
-|----------|----------|----------|
-| <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="55" height="55"/> | <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="55" height="55"/> | <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="55" height="55"/> |
-
-### Tools:
-| Git | Figma | Photoshop | MySQL |
-|----------|----------|----------|----------|
-| <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/> | <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="55" height="55"/> |
-
-<!--
-
-### It's not technology, but I use it. The section will be changed soon.:
-  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Latex" alt="Latex" width="40" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original.svg" title="ssh" alt="ssh" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-original.svg" title="xml" alt="xml" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/yaml/yaml-original.svg" title="yaml" alt="yaml" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" title="json" alt="json" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vsc" alt="vsc" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PC" alt="PC" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/clion/clion-original.svg" title="cl" alt="CL" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/datagrip/datagrip-original.svg" title="dg" alt="dg" width="30" height="30"/>  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="GitLab" alt="GitLab" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg" title="Confluence" alt="Confluence" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="30" height="30"/>
---> 
-</div>
+### Tools & Platforms:
+| Git | AWS | MySQL | MongoDB | Figma | Docker |
+|-----|-----|------|--------|------|--------|
+| <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50"/> | <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50"/> | <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="50"/> |
 
 ---
-
-
-
-
-
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=Rizwansaifi571&theme=highcontrast&hide_border=true&border_radius=5&card_width=800" alt="GitHub Streak Stats">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=Rizwansaifi571&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=rizwansaifi571&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Top Languages">
+  <img width="800" height="200" src="https://streak-stats.demolab.com?user=Rizwansaifi571&theme=highcontrast&hide_border=true&border_radius=10" style="border: 2px solid #e74c3c;">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=Rizwansaifi571&show_icons=true&theme=vision-friendly-dark" style="border: 2px solid #27ae60;">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=rizwansaifi571&show_icons=true&layout=compact&theme=vision-friendly-dark" style="border: 2px solid #8e44ad;">
 </div>
 
 ---
 
- 
-
-
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rizwansaifi571&style=for-the-badge&color=orange" alt=""/>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rizwansaifi571&style=for-the-badge&color=orange"/>
 </div>
 
 <p align="center">
- <img width="1000" src="github-snake.svg" alt="snake"/>
+ <img width="1000" src="github-snake.svg"/>
 </p>
+
