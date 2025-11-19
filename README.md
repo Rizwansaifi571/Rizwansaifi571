@@ -1,73 +1,116 @@
-# Mohd Rizwan - Data Scientist
+<h1 align="center">Hey 👋 What's Up?</h1>
+
+###
 
 <div align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Programmer GIF" width="300" style="border-radius: 10px; border: 2px solid #f39c12;">
-  
-  <h1 style="color: #3498db; font-family: Arial, sans-serif;">Welcome to my GitHub Profile!</h1>
-  <p style="font-size: 18px; font-weight: bold; color: #2ecc71;">I am a passionate B.Tech student specializing in Data Science at K.R. Mangalam University, Gurugram. With a strong foundation in computer science and a knack for solving complex challenges, I leverage technology for impactful solutions.</p>
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="280" style="border-radius: 12px;" />
 </div>
+
+<div align="center">
+
+###
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/rizwansaifi2614/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&style=for-the-badge" height="28" alt="LinkedIn Logo" />
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/Rizwansaifi571" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="28" alt="GitHub Logo" />
+  </a>
+
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/u/RizwanSaifi571/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&style=for-the-badge" height="28" alt="LeetCode Logo" />
+  </a>
+
+  <!-- HackerRank -->
+  <a href="https://www.hackerrank.com/profile/rizwansaifi2614" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&style=for-the-badge" height="28" alt="HackerRank Logo" />
+  </a>
+
+  <!-- Gmail -->
+  <a href="mailto:rizwansaifi2614@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="28" alt="Gmail Logo" />
+  </a>
+
+</div>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rizwansaifi571/Rizwansaifi571/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rizwansaifi571/Rizwansaifi571/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Rizwansaifi571/Rizwansaifi571/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
-### 🌟 About Me
-- 🔭 **Currently Working On:** AI-powered personal assistant & health report analyzer.
-- 🌱 **Exploring:** Advanced Machine Learning and Deep Learning models.
-- 💬 **Ask Me About:** Data Science, AI, and Software Development.
-- 📫 **Reach Me At:** [LinkedIn](https://www.linkedin.com/in/rizwansaifi2614/)
-- ⚡ **Fun Fact:** I can juggle both code and actual juggling balls!
+
+
+
+<br/>
+
+### 👨‍💻 About Me  
+
+Hi, I'm Mohd Rizwan, a Data Scientist & AI/ML Engineer passionate about building real-world intelligent systems. I work across Machine Learning, Deep Learning, Computer Vision, and full-stack development to create solutions that are practical, scalable, and impactful.
+
+🎓 B.Tech CSE (Data Science) @ K.R. Mangalam University
+
+🤖 Specializing in ML, DL, CV, and applied AI systems
+
+🔭 Currently building: AI Health Analyzer, Smart Resume Ranker, G–One Health Assistant
+
+☁️ Exploring: LLMs, Generative AI, MLOps, AWS, AI deployment pipelines
+
+🎯 Focused on delivering AI products that solve real problems and enhance user experience
 
 ---
 
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img width="800" height="180" src="https://github-profile-trophy.vercel.app/?username=Rizwansaifi571&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark" style="border-radius: 10px; border: 2px solid #f39c12;">
+  <img src="https://streak-stats.demolab.com?user=Rizwansaifi571&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rizwansaifi571&theme=dracula&hide_border=false&border_radius=5&order=3" height="0" alt="Top Languages"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Rizwansaifi571&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ---
 
-## 📫 Connect with Me
+###
 
-| LinkedIn | GeeksforGeeks | HackerRank | Instagram | Gmail |
-|----------|--------------|------------|------------|-------|
-| <a href="https://www.linkedin.com/in/rizwansaifi2614" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="50" width="50"/></a> | <a href="https://www.geeksforgeeks.org/user/rizwansaifi2614" target="blank"><img src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" height="50" width="50"/></a> | <a href="https://www.hackerrank.com/profile/rizwansaifi2614" target="blank"><img src="https://hrcdn.net/fcore/assets/brand/logo-new-white-green-a5cb16e0ae.svg" height="50" width="50"/></a> | <a href="https://www.instagram.com/rizwansaifi571" target="blank"><img src="http://pngimg.com/uploads/instagram/instagram_PNG9.png" height="50" width="50"/></a> | <a href="mailto:rizwansaifi2614@gmail.com" target="blank"><img src="https://static.vecteezy.com/system/resources/previews/020/964/377/original/gmail-mail-icon-for-web-design-free-png.png" height="50" width="50"/></a> |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
 
----
+###
 
-## 🚀 Languages & Tools
 
-### Programming Languages:
-| Python | Java | C++ | JavaScript | R | HTML5 | CSS3 |
-|--------|------|-----|------------|---|------|------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50"/> |
+## 🚀 Tech Stack (AIML Focused)
 
-### Frameworks & Libraries:
-| TensorFlow | PyTorch | OpenCV | Pandas | Seaborn | Bootstrap |
-|------------|---------|--------|--------|---------|-----------|
-| <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="50"/> | <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="50"/> | <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50"/> | <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="50"/> |
-
-### Tools & Platforms:
-| Git | AWS | MySQL | MongoDB | Figma | Docker |
-|-----|-----|------|--------|------|--------|
-| <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50"/> | <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50"/> | <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="50"/> |
-
----
-
-## 📊 GitHub Stats
-
+### 🧠 Machine Learning / Deep Learning  
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rizwansaifi571&theme=merko&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Rizwansaifi571&theme=merko&show_icons=true&hide_border=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rizwansaifi571&theme=merko&show_icons=true&hide_border=true&layout=compact"/>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv" height="60" />
+</div>
+
+### 🛠️ Tools & Cloud  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,vscode" height="60" />
+</div>
+
+### 🌐 Development  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=flask,react,html,css,js" height="60" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rizwansaifi571&style=for-the-badge&color=orange"/>
+  <img src="https://komarev.com/ghpvc/?username=Rizwansaifi571&style=for-the-badge&color=orange" />
 </div>
 
 <p align="center">
- <img width="1000" src="github-snake.svg"/>
+  <img width="1000" src="github-snake.svg"/>
 </p>
-
