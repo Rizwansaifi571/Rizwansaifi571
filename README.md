@@ -88,11 +88,11 @@ Hi, I'm Mohd Rizwan, a Data Scientist & AI/ML Engineer passionate about building
 ###
 
 
-## 🚀 Tech Stack (AIML Focused)
+## 🚀 Tech Stack
 
 ### 🧠 Machine Learning / Deep Learning  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv" height="60" />
+  <img src="[https://skillicons.dev/icons?i=](https://skillicons.dev/icons?i=)python,tensorflow,pytorch,sklearn,opencv" height="60" />
 </div>
 
 ### 🛠️ Tools & Cloud  
@@ -102,7 +102,7 @@ Hi, I'm Mohd Rizwan, a Data Scientist & AI/ML Engineer passionate about building
 
 ### 🌐 Development  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=flask,react,html,css,js" height="60" />
+  <img src="https://skillicons.dev/icons?i=flask,react,html,css,js, electron" height="60" />
 </div>
 
 ---
